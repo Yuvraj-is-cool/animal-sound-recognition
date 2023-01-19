@@ -1,0 +1,39 @@
+#button_start{
+    background-color: black;
+    color:white;
+    width: 150px;
+    height: 25px;
+    margin-top: 50px;
+}
+body{
+    background-color: rgb(56, 69, 244);
+    color:white;
+    font-family: 'Special Elite', cursive;
+}
+.header_div{
+background-color: grey;
+
+}
+#ear_gif{
+   
+    width: 250px;
+    height:200px;
+}
+#paragraph{
+    color:whitesmoke;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.copy_right_footer{
+    position:fixed;
+    color: gray;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: whitesmoke;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px black;
+
+}
